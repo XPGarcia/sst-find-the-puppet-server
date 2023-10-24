@@ -1,0 +1,58 @@
+﻿id;type;code;title;body;quickPlay
+1;law;freeLaw;;Construir una estatua a Abdalá Bucaram;false
+2;law;freeLaw;;Cada tercer viernes de todos los meses es feriado nacional;false
+3;law;freeLaw;;Usar zapatos rojos es vestimenta oficial de la asamblea;false
+4;law;freeLaw;;El encebollado tiene el precio único de $2.50 en todo el país;false
+5;law;freeLaw;;Los reality shows están prohibidos en todos los canales nacionales;false
+6;law;freeLaw;;Robarse el dinero del gobierno está permitido siempre y cuando se construyan carreteras ;false
+7;law;freeLaw;;El switch debe tener un precio único de $3.00;false
+8;law;freeLaw;;El bolón es declarado patrimonio cultural del Ecuador;false
+9;law;freeLaw;;Todos los hogares deberán tener un gato como mascota obligatoriamente;false
+10;law;freeLaw;;Solo se puede usar internet por 20 minutos;false
+11;law;freeLaw;;Es ilegal transportar corvinas de forma sospechosa;false
+12;law;freeLaw;;El uniforme oficial de la policía es de power rangers fuerza salvaje;false
+13;law;freeLaw;;Está prohibido quedarse sin gasolina;false
+14;law;freeLaw;;Es ilegal tomar un taxi si estás usando una camisa amarilla;false
+15;law;freeLaw;;Está prohibido ir al baño después de las 22:00 pm;false
+16;law;freeLaw;;Todas las personas con nombre José deben ser renombradas;false
+17;law;freeLaw;;Es obligatorio llevar una botella de trago cuando te invitan a una fiesta;false
+18;law;freeLaw;;Atar a una jirafa en una señal de tránsito es ilegal;false
+19;law;freeLaw;;Todos los mensajes enviados en territorio nacional deben llevar un emoji;false
+20;law;freeLaw;;Está prohibido consumir brownies de orégano con el estómago vacío;false
+21;law;freeLaw;;Las iguanas son amigas no comida;false
+22;law;freeLaw;Ley libre;Crea tu propia ley y proponla para votación;false
+23;law;freeLaw;Ley libre;Crea tu propia ley y proponla para votación;false
+24;law;freeLaw;Ley libre;Crea tu propia ley y proponla para votación;false
+25;law;freeLaw;Ley libre;Crea tu propia ley y proponla para votación;false
+26;law;freeLaw;Ley libre;Crea tu propia ley y proponla para votación;false
+27;law;freeLaw;Ley libre;Crea tu propia ley y proponla para votación;false
+28;law;freeLaw;Ley libre;Crea tu propia ley y proponla para votación;false
+29;law;freeLaw;Ley libre;Crea tu propia ley y proponla para votación;false
+30;law;freeLaw;Ley libre;Crea tu propia ley y proponla para votación;false
+31;action;coup;¡Golpe de estado!;El presidente deja el cargo y el que tiene la carta se vuelve el presidente interino hasta las siguientes elecciones;false
+32;action;coup;¡Golpe de estado!;El presidente deja el cargo y el que tiene la carta se vuelve el presidente interino hasta las siguientes elecciones;false
+33;action;coup;¡Golpe de estado!;El presidente deja el cargo y el que tiene la carta se vuelve el presidente interino hasta las siguientes elecciones;false
+34;action;coup;¡Golpe de estado!;El presidente deja el cargo y el que tiene la carta se vuelve el presidente interino hasta las siguientes elecciones;false
+35;action;coup;¡Golpe de estado!;El presidente deja el cargo y el que tiene la carta se vuelve el presidente interino hasta las siguientes elecciones;false
+36;action;coup;¡Golpe de estado!;El presidente deja el cargo y el que tiene la carta se vuelve el presidente interino hasta las siguientes elecciones;false
+37;action;coup;¡Golpe de estado!;El presidente deja el cargo y el que tiene la carta se vuelve el presidente interino hasta las siguientes elecciones;false
+38;action;coup;¡Golpe de estado!;El presidente deja el cargo y el que tiene la carta se vuelve el presidente interino hasta las siguientes elecciones;false
+39;action;coup;¡Golpe de estado!;El presidente deja el cargo y el que tiene la carta se vuelve el presidente interino hasta las siguientes elecciones;false
+40;action;coup;¡Golpe de estado!;El presidente deja el cargo y el que tiene la carta se vuelve el presidente interino hasta las siguientes elecciones;false
+41;action;corruptionInvestigation;¡Investigación por corrupción!;El participante no podrá crear leyes nuevas;false
+42;action;corruptionInvestigation;¡Investigación por corrupción!;El participante no podrá crear leyes nuevas;false
+43;action;corruptionInvestigation;¡Investigación por corrupción!;El participante no podrá crear leyes nuevas;false
+44;action;corruptionInvestigation;¡Investigación por corrupción!;El participante no podrá crear leyes nuevas;false
+45;action;corruptionInvestigation;¡Investigación por corrupción!;El participante no podrá crear leyes nuevas;false
+46;action;corruptionInvestigation;¡Investigación por corrupción!;El participante no podrá crear leyes nuevas;false
+47;action;corruptionInvestigation;¡Investigación por corrupción!;El participante no podrá crear leyes nuevas;false
+48;action;corruptionInvestigation;¡Investigación por corrupción!;El participante no podrá crear leyes nuevas;false
+49;action;corruptionInvestigation;¡Investigación por corrupción!;El participante no podrá crear leyes nuevas;false
+50;action;presidentialPower;Poder presidencial;Aprobar una ley sin el voto de los otros participantes;false
+51;action;presidentialPower;Poder presidencial;Aprobar una ley sin el voto de los otros participantes;false
+52;action;presidentialPower;Poder presidencial;Aprobar una ley sin el voto de los otros participantes;false
+53;action;presidentialPower;Poder presidencial;Aprobar una ley sin el voto de los otros participantes;false
+54;action;presidentialPower;Poder presidencial;Aprobar una ley sin el voto de los otros participantes;false
+55;action;presidentialPower;Poder presidencial;Aprobar una ley sin el voto de los otros participantes;false
+56;action;mkUltra;¡MK ultra!;El jugador tiene el poder de escoger a alguien para que le diga la verdad absoluta de su posición;false
+57;action;mkUltra;¡MK ultra!;El jugador tiene el poder de escoger a alguien para que le diga la verdad absoluta de su posición;false

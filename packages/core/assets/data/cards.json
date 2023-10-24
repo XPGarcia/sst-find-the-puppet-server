@@ -1,0 +1,458 @@
+[
+  {
+    "id": 1,
+    "type": "law",
+    "code": "freeLaw",
+    "title": "",
+    "body": "Construir una estatua a Abdalá Bucaram",
+    "quickPlay": false
+  },
+  {
+    "id": 2,
+    "type": "law",
+    "code": "freeLaw",
+    "title": "",
+    "body": "Cada tercer viernes de todos los meses es feriado nacional",
+    "quickPlay": false
+  },
+  {
+    "id": 3,
+    "type": "law",
+    "code": "freeLaw",
+    "title": "",
+    "body": "Usar zapatos rojos es vestimenta oficial de la asamblea",
+    "quickPlay": false
+  },
+  {
+    "id": 4,
+    "type": "law",
+    "code": "freeLaw",
+    "title": "",
+    "body": "El encebollado tiene el precio único de $2.50 en todo el país",
+    "quickPlay": false
+  },
+  {
+    "id": 5,
+    "type": "law",
+    "code": "freeLaw",
+    "title": "",
+    "body": "Los reality shows están prohibidos en todos los canales nacionales",
+    "quickPlay": false
+  },
+  {
+    "id": 6,
+    "type": "law",
+    "code": "freeLaw",
+    "title": "",
+    "body": "Robarse el dinero del gobierno está permitido siempre y cuando se construyan carreteras",
+    "quickPlay": false
+  },
+  {
+    "id": 7,
+    "type": "law",
+    "code": "freeLaw",
+    "title": "",
+    "body": "El switch debe tener un precio único de $3.00",
+    "quickPlay": false
+  },
+  {
+    "id": 8,
+    "type": "law",
+    "code": "freeLaw",
+    "title": "",
+    "body": "El bolón es declarado patrimonio cultural del Ecuador",
+    "quickPlay": false
+  },
+  {
+    "id": 9,
+    "type": "law",
+    "code": "freeLaw",
+    "title": "",
+    "body": "Todos los hogares deberán tener un gato como mascota obligatoriamente",
+    "quickPlay": false
+  },
+  {
+    "id": 10,
+    "type": "law",
+    "code": "freeLaw",
+    "title": "",
+    "body": "Solo se puede usar internet por 20 minutos",
+    "quickPlay": false
+  },
+  {
+    "id": 11,
+    "type": "law",
+    "code": "freeLaw",
+    "title": "",
+    "body": "Es ilegal transportar corvinas de forma sospechosa",
+    "quickPlay": false
+  },
+  {
+    "id": 12,
+    "type": "law",
+    "code": "freeLaw",
+    "title": "",
+    "body": "El uniforme oficial de la policía es de power rangers fuerza salvaje",
+    "quickPlay": false
+  },
+  {
+    "id": 13,
+    "type": "law",
+    "code": "freeLaw",
+    "title": "",
+    "body": "Está prohibido quedarse sin gasolina",
+    "quickPlay": false
+  },
+  {
+    "id": 14,
+    "type": "law",
+    "code": "freeLaw",
+    "title": "",
+    "body": "Es ilegal tomar un taxi si estás usando una camisa amarilla",
+    "quickPlay": false
+  },
+  {
+    "id": 15,
+    "type": "law",
+    "code": "freeLaw",
+    "title": "",
+    "body": "Está prohibido ir al baño después de las 22:00 pm",
+    "quickPlay": false
+  },
+  {
+    "id": 16,
+    "type": "law",
+    "code": "freeLaw",
+    "title": "",
+    "body": "Todas las personas con nombre José deben ser renombradas",
+    "quickPlay": false
+  },
+  {
+    "id": 17,
+    "type": "law",
+    "code": "freeLaw",
+    "title": "",
+    "body": "Es obligatorio llevar una botella de trago cuando te invitan a una fiesta",
+    "quickPlay": false
+  },
+  {
+    "id": 18,
+    "type": "law",
+    "code": "freeLaw",
+    "title": "",
+    "body": "Atar a una jirafa en una señal de tránsito es ilegal",
+    "quickPlay": false
+  },
+  {
+    "id": 19,
+    "type": "law",
+    "code": "freeLaw",
+    "title": "",
+    "body": "Todos los mensajes enviados en territorio nacional deben llevar un emoji",
+    "quickPlay": false
+  },
+  {
+    "id": 20,
+    "type": "law",
+    "code": "freeLaw",
+    "title": "",
+    "body": "Está prohibido consumir brownies de orégano con el estómago vacío",
+    "quickPlay": false
+  },
+  {
+    "id": 21,
+    "type": "law",
+    "code": "freeLaw",
+    "title": "",
+    "body": "Las iguanas son amigas no comida",
+    "quickPlay": false
+  },
+  {
+    "id": 22,
+    "type": "law",
+    "code": "freeLaw",
+    "title": "Ley libre",
+    "body": "Crea tu propia ley y proponla para votación",
+    "quickPlay": false
+  },
+  {
+    "id": 23,
+    "type": "law",
+    "code": "freeLaw",
+    "title": "Ley libre",
+    "body": "Crea tu propia ley y proponla para votación",
+    "quickPlay": false
+  },
+  {
+    "id": 24,
+    "type": "law",
+    "code": "freeLaw",
+    "title": "Ley libre",
+    "body": "Crea tu propia ley y proponla para votación",
+    "quickPlay": false
+  },
+  {
+    "id": 25,
+    "type": "law",
+    "code": "freeLaw",
+    "title": "Ley libre",
+    "body": "Crea tu propia ley y proponla para votación",
+    "quickPlay": false
+  },
+  {
+    "id": 26,
+    "type": "law",
+    "code": "freeLaw",
+    "title": "Ley libre",
+    "body": "Crea tu propia ley y proponla para votación",
+    "quickPlay": false
+  },
+  {
+    "id": 27,
+    "type": "law",
+    "code": "freeLaw",
+    "title": "Ley libre",
+    "body": "Crea tu propia ley y proponla para votación",
+    "quickPlay": false
+  },
+  {
+    "id": 28,
+    "type": "law",
+    "code": "freeLaw",
+    "title": "Ley libre",
+    "body": "Crea tu propia ley y proponla para votación",
+    "quickPlay": false
+  },
+  {
+    "id": 29,
+    "type": "law",
+    "code": "freeLaw",
+    "title": "Ley libre",
+    "body": "Crea tu propia ley y proponla para votación",
+    "quickPlay": false
+  },
+  {
+    "id": 30,
+    "type": "law",
+    "code": "freeLaw",
+    "title": "Ley libre",
+    "body": "Crea tu propia ley y proponla para votación",
+    "quickPlay": false
+  },
+  {
+    "id": 31,
+    "type": "action",
+    "code": "coup",
+    "title": "¡Golpe de estado!",
+    "body": "El presidente deja el cargo y el que tiene la carta se vuelve el presidente interino hasta las siguientes elecciones",
+    "quickPlay": false
+  },
+  {
+    "id": 32,
+    "type": "action",
+    "code": "coup",
+    "title": "¡Golpe de estado!",
+    "body": "El presidente deja el cargo y el que tiene la carta se vuelve el presidente interino hasta las siguientes elecciones",
+    "quickPlay": false
+  },
+  {
+    "id": 33,
+    "type": "action",
+    "code": "coup",
+    "title": "¡Golpe de estado!",
+    "body": "El presidente deja el cargo y el que tiene la carta se vuelve el presidente interino hasta las siguientes elecciones",
+    "quickPlay": false
+  },
+  {
+    "id": 34,
+    "type": "action",
+    "code": "coup",
+    "title": "¡Golpe de estado!",
+    "body": "El presidente deja el cargo y el que tiene la carta se vuelve el presidente interino hasta las siguientes elecciones",
+    "quickPlay": false
+  },
+  {
+    "id": 35,
+    "type": "action",
+    "code": "coup",
+    "title": "¡Golpe de estado!",
+    "body": "El presidente deja el cargo y el que tiene la carta se vuelve el presidente interino hasta las siguientes elecciones",
+    "quickPlay": false
+  },
+  {
+    "id": 36,
+    "type": "action",
+    "code": "coup",
+    "title": "¡Golpe de estado!",
+    "body": "El presidente deja el cargo y el que tiene la carta se vuelve el presidente interino hasta las siguientes elecciones",
+    "quickPlay": false
+  },
+  {
+    "id": 37,
+    "type": "action",
+    "code": "coup",
+    "title": "¡Golpe de estado!",
+    "body": "El presidente deja el cargo y el que tiene la carta se vuelve el presidente interino hasta las siguientes elecciones",
+    "quickPlay": false
+  },
+  {
+    "id": 38,
+    "type": "action",
+    "code": "coup",
+    "title": "¡Golpe de estado!",
+    "body": "El presidente deja el cargo y el que tiene la carta se vuelve el presidente interino hasta las siguientes elecciones",
+    "quickPlay": false
+  },
+  {
+    "id": 39,
+    "type": "action",
+    "code": "coup",
+    "title": "¡Golpe de estado!",
+    "body": "El presidente deja el cargo y el que tiene la carta se vuelve el presidente interino hasta las siguientes elecciones",
+    "quickPlay": false
+  },
+  {
+    "id": 40,
+    "type": "action",
+    "code": "coup",
+    "title": "¡Golpe de estado!",
+    "body": "El presidente deja el cargo y el que tiene la carta se vuelve el presidente interino hasta las siguientes elecciones",
+    "quickPlay": false
+  },
+  {
+    "id": 41,
+    "type": "action",
+    "code": "corruptionInvestigation",
+    "title": "¡Investigación por corrupción!",
+    "body": "El participante no podrá crear leyes nuevas",
+    "quickPlay": false
+  },
+  {
+    "id": 42,
+    "type": "action",
+    "code": "corruptionInvestigation",
+    "title": "¡Investigación por corrupción!",
+    "body": "El participante no podrá crear leyes nuevas",
+    "quickPlay": false
+  },
+  {
+    "id": 43,
+    "type": "action",
+    "code": "corruptionInvestigation",
+    "title": "¡Investigación por corrupción!",
+    "body": "El participante no podrá crear leyes nuevas",
+    "quickPlay": false
+  },
+  {
+    "id": 44,
+    "type": "action",
+    "code": "corruptionInvestigation",
+    "title": "¡Investigación por corrupción!",
+    "body": "El participante no podrá crear leyes nuevas",
+    "quickPlay": false
+  },
+  {
+    "id": 45,
+    "type": "action",
+    "code": "corruptionInvestigation",
+    "title": "¡Investigación por corrupción!",
+    "body": "El participante no podrá crear leyes nuevas",
+    "quickPlay": false
+  },
+  {
+    "id": 46,
+    "type": "action",
+    "code": "corruptionInvestigation",
+    "title": "¡Investigación por corrupción!",
+    "body": "El participante no podrá crear leyes nuevas",
+    "quickPlay": false
+  },
+  {
+    "id": 47,
+    "type": "action",
+    "code": "corruptionInvestigation",
+    "title": "¡Investigación por corrupción!",
+    "body": "El participante no podrá crear leyes nuevas",
+    "quickPlay": false
+  },
+  {
+    "id": 48,
+    "type": "action",
+    "code": "corruptionInvestigation",
+    "title": "¡Investigación por corrupción!",
+    "body": "El participante no podrá crear leyes nuevas",
+    "quickPlay": false
+  },
+  {
+    "id": 49,
+    "type": "action",
+    "code": "corruptionInvestigation",
+    "title": "¡Investigación por corrupción!",
+    "body": "El participante no podrá crear leyes nuevas",
+    "quickPlay": false
+  },
+  {
+    "id": 50,
+    "type": "action",
+    "code": "presidentialPower",
+    "title": "Poder presidencial",
+    "body": "Aprobar una ley sin el voto de los otros participantes",
+    "quickPlay": false
+  },
+  {
+    "id": 51,
+    "type": "action",
+    "code": "presidentialPower",
+    "title": "Poder presidencial",
+    "body": "Aprobar una ley sin el voto de los otros participantes",
+    "quickPlay": false
+  },
+  {
+    "id": 52,
+    "type": "action",
+    "code": "presidentialPower",
+    "title": "Poder presidencial",
+    "body": "Aprobar una ley sin el voto de los otros participantes",
+    "quickPlay": false
+  },
+  {
+    "id": 53,
+    "type": "action",
+    "code": "presidentialPower",
+    "title": "Poder presidencial",
+    "body": "Aprobar una ley sin el voto de los otros participantes",
+    "quickPlay": false
+  },
+  {
+    "id": 54,
+    "type": "action",
+    "code": "presidentialPower",
+    "title": "Poder presidencial",
+    "body": "Aprobar una ley sin el voto de los otros participantes",
+    "quickPlay": false
+  },
+  {
+    "id": 55,
+    "type": "action",
+    "code": "presidentialPower",
+    "title": "Poder presidencial",
+    "body": "Aprobar una ley sin el voto de los otros participantes",
+    "quickPlay": false
+  },
+  {
+    "id": 56,
+    "type": "action",
+    "code": "mkUltra",
+    "title": "¡MK ultra!",
+    "body": "El jugador tiene el poder de escoger a alguien para que le diga la verdad absoluta de su posición",
+    "quickPlay": false
+  },
+  {
+    "id": 57,
+    "type": "action",
+    "code": "mkUltra",
+    "title": "¡MK ultra!",
+    "body": "El jugador tiene el poder de escoger a alguien para que le diga la verdad absoluta de su posición",
+    "quickPlay": false
+  }
+]

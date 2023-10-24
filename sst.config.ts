@@ -1,5 +1,6 @@
 import { SSTConfig } from "sst";
-import { API } from "./stacks/MyStack";
+import { StorageStack } from "./stacks/StorageStack";
+import { WSApi } from "./stacks/WebsocketStack";
 
 export default {
   config(_input) {
@@ -9,6 +10,7 @@ export default {
     };
   },
   stacks(app) {
-    app.stack(API);
-  }
+    app.stack(StorageStack);
+    app.stack(WSApi);
+  },
 } satisfies SSTConfig;

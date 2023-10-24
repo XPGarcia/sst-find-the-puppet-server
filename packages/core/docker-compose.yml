@@ -1,0 +1,48 @@
+version: '3.7'
+
+services:
+  app:
+    container_name: app
+    build:
+      context: ./
+      target: development-build-stage
+      dockerfile: Dockerfile
+    env_file:
+      - ./.env
+    environment:
+      MONGO_INITDB_HOST: database
+      MONGO_INITDB_ROOT_USERNAME: mongo
+      MONGO_INITDB_ROOT_PASSWORD: password
+      MONGO_INITDB_DATABASE: titere-test-db
+    ports:
+      - '3000:3000'
+    volumes:
+      - ./:/app
+      - /app/node_modules
+    networks:
+      - backend
+    links:
+      - database
+    depends_on:
+      - database
+
+  database:
+    container_name: database
+    image: mongo:latest
+    restart: always
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: mongo
+      MONGO_INITDB_ROOT_PASSWORD: password
+      MONGO_INITDB_DATABASE: titere-test-db
+    ports:
+      - 27017:27017
+    networks:
+      - backend
+
+networks:
+  backend:
+    driver: bridge
+
+volumes:
+  data:
+    driver: local
